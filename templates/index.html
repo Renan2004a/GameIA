@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>GameIA 🎮</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>🎮 GameIA</h1>
+    <p>Sua IA especialista em jogos</p>
+
+    <div class="chat-box" id="chat"></div>
+
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Pergunte sobre um jogo...">
+        <button onclick="sendMessage()">Enviar</button>
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

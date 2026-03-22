@@ -1,0 +1,81 @@
+Jogos e Franquias
+
+The Last of Us é um jogo de ação e sobrevivência desenvolvido pela Naughty Dog.
+
+Dark Souls é conhecido por sua alta dificuldade e narrativa ambiental.
+
+God of War Ragnarök continua a história de Kratos na mitologia nórdica.
+
+Elden Ring é um RPG de mundo aberto criado por Hidetaka Miyazaki.
+
+Super Mario 64: Definiu os padrões de movimentação em 3D e o uso de câmeras dinâmicas em jogos de plataforma.
+
+Doom (1993): Pioneiro dos jogos de tiro em primeira pessoa (FPS), foi um dos primeiros a usar iluminação dinâmica e mapas com diferentes alturas.
+
+Street Fighter II: Responsável por popularizar os "combos", que surgiram originalmente como um erro de programação (glitch) no sistema de animação.
+
+Final Fantasy VII: Foi o título que popularizou os RPGs japoneses (JRPGs) no Ocidente, utilizando cinemáticas em CGI pré-renderizadas.
+
+Resident Evil: Criou o termo "Survival Horror" e focava em gerenciamento de recursos escassos e quebra-cabeças em cenários fixos.
+
+The Witcher 3 Wild Hunt: Referência em narrativa de mundo aberto, onde as missões secundárias têm o mesmo peso dramático que a história principal.
+
+Half-Life 2: Introduziu o motor de física Source, permitindo que objetos do cenário fossem usados como armas ou ferramentas em puzzles.
+
+Metal Gear Solid: Revolucionou a narrativa cinematográfica nos games e popularizou o gênero de furtividade (stealth).
+
+Pac-Man: Criado por Toru Iwatani, o design do personagem foi inspirado em uma pizza com uma fatia faltando.
+
+Grand Theft Auto V: Detém recordes de entretenimento como o produto que mais rápido faturou 1 bilhão de dólares na história.
+
+Minecraft: Jogo de sandbox onde o mundo é gerado proceduralmente por blocos, sendo o jogo mais vendido de todos os tempos.
+
+League of Legends: Um dos pilares do gênero MOBA, focado em estratégia competitiva e um dos maiores ecossistemas de esports do mundo.
+
+Consoles e Hardware
+
+Nintendo Entertainment System (NES): O console responsável por salvar a indústria de videogames nos Estados Unidos após a crise de 1983.
+
+PlayStation 1: Primeiro console a ultrapassar a marca de 100 milhões de unidades vendidas, utilizando o formato CD-ROM em vez de cartuchos.
+
+Game Boy: Portátil da Nintendo famoso por sua durabilidade extrema e por ter popularizado o jogo Tetris mundialmente.
+
+Sega Genesis (Mega Drive): Ficou conhecido pelo termo de marketing "Blast Processing" para destacar sua velocidade de processamento superior ao concorrente.
+
+Nintendo 64: Introduziu o alavanca analógica como padrão da indústria para permitir o controle preciso em ambientes 3D.
+
+Dreamcast: Foi o primeiro console a vir de fábrica com um modem para acesso à internet e jogatina online.
+
+Xbox 360: Consolidou o sistema de conquistas (Achievements) e a infraestrutura de rede robusta com a Xbox Live.
+
+PlayStation 5: Utiliza um armazenamento SSD de altíssima velocidade para eliminar telas de carregamento e permitir o carregamento imediato de texturas.
+
+Nintendo Switch: Console híbrido que pode ser usado tanto conectado à TV quanto como um dispositivo portátil.
+
+Acessórios e Periféricos
+
+DualSense: Controle do PS5 que utiliza motores de feedback tátil e gatilhos com resistência variável (adaptáveis).
+
+Memory Card: Cartão de memória removível essencial para salvar o progresso de jogos antes dos consoles terem armazenamento interno.
+
+Kinect: Sensor de movimento da Microsoft que utiliza câmeras infravermelhas para mapear o corpo humano sem a necessidade de controles físicos.
+
+Mouse Gamer: Periférico de alta precisão com sensores de alto DPI e botões programáveis para vantagem competitiva no PC.
+
+Volantes de Simulação: Acessórios com Force Feedback que simulam a resistência real da direção de um carro de corrida.
+
+Steam Deck: Computador portátil de alta performance que permite rodar a biblioteca de jogos de PC em qualquer lugar.
+
+PSVR2: Óculos de realidade virtual que utilizam rastreamento ocular e telas OLED para imersão total dentro do jogo.
+
+Acessório Rumble Pak: Dispositivo que era encaixado no controle do Nintendo 64 para fornecer vibração pela primeira vez em um console.
+
+Termos e Tecnologias
+
+Ray Tracing: Tecnologia que calcula o comportamento físico da luz em tempo real para gerar reflexos e sombras fotorrealistas.
+
+DLC (Downloadable Content): Conteúdo adicional lançado após o jogo original para expandir a história ou adicionar funcionalidades.
+
+Frame Rate (FPS): Medida de quantos quadros por segundo o jogo exibe; quanto maior, mais fluida é a imagem.
+
+NPC (Non-Player Character): Personagem que habita o mundo do jogo mas não é controlado pelo jogador.
